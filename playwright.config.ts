@@ -81,3 +81,9 @@ reporter: [
   ['html'],
   ['json', { outputFile: 'tests/test-results.json' }]
 ]
+
+reporters: [
+  ['./summary-reporter.js'],
+  ['html'],
+  ['list']
+]
