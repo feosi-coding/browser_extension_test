@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "passed": 15,
-  "failed": 0,
+  "passed": 0,
+  "failed": 15,
   "flaky": 0,
   "total": 15,
-  "startTime": "2026-02-07T02:51:06.815Z",
+  "startTime": "2026-03-11T19:11:56.541Z",
   "isSummary": true
 }
